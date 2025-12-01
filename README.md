@@ -18,7 +18,7 @@ This Power BI project delivers a comprehensive analysis of mobile phone sales da
 ## 📷 Screenshots
 
 ### **Main Dashboard**
-![Dashboard Overview](Dashboard.jpg)
+![Dashboard Overview](Dashboard.png)
 
 ### **MTD Report**
 ![MTD Report](MTD_Report.png)
